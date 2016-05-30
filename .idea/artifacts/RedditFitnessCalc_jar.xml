@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RedditFitnessCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RedditFitnessCalc_jar</output-path>
+    <root id="archive" name="RedditFitnessCalc.jar">
+      <element id="module-output" name="RedditFitnessCalc" />
+    </root>
+  </artifact>
+</component>
